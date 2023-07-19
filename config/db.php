@@ -2,8 +2,8 @@
     class db{
         private $host = 'localhost';
         private $db = 'crud';
-        private $user = 'diiego';
-        private $password = 'diego12';
+        private $user = 'root';
+        private $password = '';
         
         public function conexion(){
             try{
